@@ -27,7 +27,7 @@ Scripts/GameScene/
     ├── HeadbobHandler.cs             # 이동 흔들림
     ├── CameraZoomHandler.cs          # FOV 줌 처리
     ├── PhotoCaptureHandler.cs        # 사진 촬영 처리
-    └── State/
+    └── MovementBaseState/
         ├── MovementBaseState.cs      # 이동 상태 추상 베이스
         ├── IdleState.cs
         ├── WalkState.cs
